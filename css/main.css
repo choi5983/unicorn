@@ -1,0 +1,29 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+.canvas{
+	background: url('../images/background.png');
+	width:1000px;
+	height:600px;
+}
+.canvas span{
+	display:inline-block;
+	position:absolute;
+}
+.unicorn{
+	background: url('../images/unicorn.png');
+	width: 48px;
+	height: 48px;
+}
+.water_droplet{
+	background: url('../images/water_droplet.png');
+	width: 36px;
+	height: 36px;
+}
+.ground{
+	width:36px;
+	height:36px;
+	background: url('../images/ground.jpeg');
+}
